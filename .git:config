@@ -1,5 +1,5 @@
 [remote "origin"]
-    url = git@github.com:concord-consortium/energy2d-js.git
+    url = git@github.com:kailoh/outlook-trello.git
     fetch = +refs/heads/*:refs/remotes/origin/*
     push = refs/heads/master:refs/heads/master
     push = refs/heads/gh-pages:refs/heads/gh-pages
