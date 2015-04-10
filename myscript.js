@@ -11,9 +11,13 @@
 	};
 
 	function getTaskSuggestions() {
+
 		var entities = Office.context.mailbox.item.getEntities();
 		var tasksArray = entities.taskSuggestions;
 		var htmlText = "";
+
+		console.log("getTaskSuggestions, length of array: " + tasksArray.length);
+
 		// Iterates through each instance of a task suggestion.
 		for (var i = 0; i < tasksArray.length; i++)
 		{
