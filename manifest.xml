@@ -10,15 +10,15 @@
     <Capability Name="Mailbox" />
   </Capabilities>
   <DesktopSettings>
-    <SourceLocation DefaultValue="https://lit-dusk-8813.herokuapp.com/" />
+    <SourceLocation DefaultValue="http://kailoh.github.io/outlook-trello/" />
     <RequestedHeight>450</RequestedHeight>
   </DesktopSettings>
   <TabletSettings>
-    <SourceLocation DefaultValue="https://lit-dusk-8813.herokuapp.com/" />
+    <SourceLocation DefaultValue="http://kailoh.github.io/outlook-trello/" />
     <RequestedHeight>450</RequestedHeight>
   </TabletSettings>
   <PhoneSettings>
-    <SourceLocation DefaultValue="https://lit-dusk-8813.herokuapp.com/" />
+    <SourceLocation DefaultValue="http://kailoh.github.io/outlook-trello/" />
   </PhoneSettings>
   <Permissions>ReadItem</Permissions>
   <Rule xsi:type="RuleCollection" Mode="And">
